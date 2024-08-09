@@ -1,6 +1,6 @@
 ZeroTier Packet Tracking ID:
 
-UAW Text Traffic Server: 856127940ce62ba8 (ON)
+UAW Text Traffic Server: 856127940ce62ba8 (OFF)
 
 
 ZeroTier Network ID's:
