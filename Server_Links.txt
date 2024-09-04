@@ -5,7 +5,7 @@ UAW Text Traffic Server: 856127940ce62ba8 (ON)
 
 ZeroTier Network ID's:
 
-UAW Server 1: af415e486f5fa690 (ON)
+UAW Server 1: 233ccaac27f21b75 (ON)
 UAW Server 2: 48d6023c467e3bea (ON)
 UAW Server 3: d3ecf5726d659fec (ON)
 UAW Server 4: a09acf02337cb391 (ON)
